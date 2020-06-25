@@ -7,6 +7,7 @@
 
 ## Description
 A digital record collection catalog that helps a user keep track of records in their collection and organize it by specific parameters. 
+View this project on Heroku [here](https://record-collector-epiapp.herokuapp.com/)
 
 ## Setup/Installation Requirements
 Users will need to install Ruby, Rails, psql and Postgres.
