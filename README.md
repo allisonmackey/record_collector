@@ -18,10 +18,7 @@ password: test123
 
 ## Specifications
 
-| Behavior       | Input         | Output  |
-
-## User Stories Employed to Determine Behavior Driven Development Strategy
-
+User Stories Employed to Determine Behavior Driven Development Strategy
 * As an user I want to be able to store a list of all of the vinyl records in my collection.
 * As a user I want to be able to search for an album by name, artist, genre, year and then select an album from a list and add it to my collection.
 * I want to be able to add and delete records and the information that is stored with them.
